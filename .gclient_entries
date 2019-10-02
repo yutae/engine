@@ -1,0 +1,3 @@
+entries = {
+  'src/flutter': 'git@github.com:yutae/engine.git',
+}
